@@ -1,0 +1,5 @@
+name: Agnes-AI
+kind: model-provider
+version: 1.0.0
+description: OpenAI-compatible multimodal model provider for Agnes AI
+author: Agnes AI
