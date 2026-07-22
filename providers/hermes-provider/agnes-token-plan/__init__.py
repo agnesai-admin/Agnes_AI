@@ -22,7 +22,7 @@ agnes_token_plan = ProviderProfile(
         "agnes_tp",
         "agnes_token_plan",
     ),
-    display_name="Agnes AI (Token Plan)",
+    display_name="Aagnes-token-plan-provider",
     description=(
         "Agnes AI Token Plan — OpenAI-compatible multimodal API "
         "with dedicated RPM limits and quota allocation."
