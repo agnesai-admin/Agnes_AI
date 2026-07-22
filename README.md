@@ -255,7 +255,7 @@ https://platform.agnes-ai.com/
 
 API Documentation:
 
-https://docs.agnes-ai.com/
+https://agnes-ai.com/en/docs/overview
 
 Website:
 
