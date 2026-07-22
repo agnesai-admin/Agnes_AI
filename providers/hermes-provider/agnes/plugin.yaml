@@ -1,0 +1,5 @@
+name: Agnes AI
+kind: model-provider
+version: 1.0.0
+description: Agnes AI Free tier — OpenAI-compatible multimodal API with standard RPM limits and quota allocation
+author: Agnes AI
